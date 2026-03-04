@@ -31,8 +31,3 @@ Soy estudiante de 7mo semestre de **Ingeniería en Sistemas Computacionales** (P
 | **🌡️ Estación de Temperatura y Humedad** | Lectura de datos ambientales en tiempo real conectados a una interfaz de escritorio. | `Arduino UNO`, `C#`, `Visual Studio`, `Protoboard` |
 | **📅 App de Recordatorios** | Aplicación de escritorio diseñada para la gestión de tareas y recordatorios. | `C#`, `Visual Studio` |
 | **🌐 Mi Propio Servidor Web** | Configuración, despliegue y alojamiento de una página web en un servidor propio. | `Redes`, `Web` |
-### 📊 Mis Estadísticas de GitHub
-
-| Actividad | Lenguajes más usados |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[sarahyarambula]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sarahyarambula]&layout=compact&theme=radical&hide_border=false" /> |
