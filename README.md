@@ -31,18 +31,8 @@ Soy estudiante de 7mo semestre de **Ingeniería en Sistemas Computacionales** (P
 | **🌡️ Estación de Temperatura y Humedad** | Lectura de datos ambientales en tiempo real conectados a una interfaz de escritorio. | `Arduino UNO`, `C#`, `Visual Studio`, `Protoboard` |
 | **📅 App de Recordatorios** | Aplicación de escritorio diseñada para la gestión de tareas y recordatorios. | `C#`, `Visual Studio` |
 | **🌐 Mi Propio Servidor Web** | Configuración, despliegue y alojamiento de una página web en un servidor propio. | `Redes`, `Web` |
-
----
-
 ### 📊 Mis Estadísticas de GitHub
 
 | Actividad | Lenguajes más usados |
 | :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=radical&hide_border=false" /> |
-
----
-
-### 📫 ¿Cómo contactarme?
-*(Aquí puedes agregar tus enlaces, reemplaza las URLs por las tuyas)*
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tu-correo@gmail.com)
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[sarahyarambula]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sarahyarambula]&layout=compact&theme=radical&hide_border=false" /> |
