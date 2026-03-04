@@ -1,7 +1,9 @@
 # ¡Hola! Soy Sarahy Arámbula García 👋
 
 <p align="center">
-  >p
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=60" />
+</p>
+
 ### 👩‍💻 Sobre mí
 Soy estudiante de 7mo semestre de **Ingeniería en Sistemas Computacionales** (Promedio: 90) con bases previas en Logística por el CEtis 58. Me apasiona la integración de hardware y software, el desarrollo de aplicaciones y la creación de infraestructura tecnológica. Soy proactiva, me encantan los retos (como el Hackatón en el que participé en 2023) y domino el **inglés con fluidez** para cualquier entorno profesional.
 
@@ -28,4 +30,4 @@ Soy estudiante de 7mo semestre de **Ingeniería en Sistemas Computacionales** (P
 | **💡 Iluminación Automatizada** | Sistema automatizado basado en los niveles de luz solar detectados por un sensor. | `Arduino UNO`, `C#`, `Visual Studio`, `Protoboard` |
 | **🌡️ Estación de Temperatura y Humedad** | Lectura de datos ambientales en tiempo real conectados a una interfaz de escritorio. | `Arduino UNO`, `C#`, `Visual Studio`, `Protoboard` |
 | **📅 App de Recordatorios** | Aplicación de escritorio diseñada para la gestión de tareas y recordatorios. | `C#`, `Visual Studio` |
-| **🌐 Mi Propio Servidor Web** | Configuración, despliegue y alojamiento de una página web en un servidor propio. | `Redes`, `Web` |
+| **🌐 Mi Propio Servidor Web** | Configuración, despliegue y alojamiento de una página web en un servidor propio. | `Redes`, `Web` |alojamiento de una página web en un servidor propio. | `Redes`, `Web` |
