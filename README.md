@@ -1,16 +1,48 @@
-## Hi there 👋
+# ¡Hola! Soy Sarahy Arámbula García 👋
 
-<!--
-**sarahyarambula/sarahyarambula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=60" />
+</p>
 
-Here are some ideas to get you started:
+### 👩‍💻 Sobre mí
+Soy estudiante de 7mo semestre de **Ingeniería en Sistemas Computacionales** (Promedio: 90) con bases previas en Logística por el CEtis 58. Me apasiona la integración de hardware y software, el desarrollo de aplicaciones y la creación de infraestructura tecnológica. Soy proactiva, me encantan los retos (como el Hackatón en el que participé en 2023) y domino el **inglés con fluidez** para cualquier entorno profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Actualmente estoy trabajando en:** Un proyecto de lectura de humedad de suelo en plantas utilizando una **Raspberry Pi Pico 2 W**.
+- 🌱 **Habilidades destacadas:** Desarrollo en C# con Visual Studio, electrónica (Protoboard, Arduino UNO), y despliegue de servidores web.
+- 💬 **Pregúntame sobre:** Integración de Arduino con aplicaciones de escritorio, C# o despliegue de páginas web.
+- ⚡ **Dato curioso:** En abril de 2025 aprendí a crear y alojar mi propia página web levantando mi propio servidor desde cero.
+
+---
+
+### 🚀 Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,visualstudio,arduino,raspberrypi,html,css,linux" />
+</p>
+
+---
+
+### 📁 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **🌱 Monitor de Humedad de Suelo** | *(En desarrollo)* Sistema de monitoreo para plantas utilizando microcontroladores. | `Raspberry Pi Pico 2 W` |
+| **💡 Iluminación Automatizada** | Sistema automatizado basado en los niveles de luz solar detectados por un sensor. | `Arduino UNO`, `C#`, `Visual Studio`, `Protoboard` |
+| **🌡️ Estación de Temperatura y Humedad** | Lectura de datos ambientales en tiempo real conectados a una interfaz de escritorio. | `Arduino UNO`, `C#`, `Visual Studio`, `Protoboard` |
+| **📅 App de Recordatorios** | Aplicación de escritorio diseñada para la gestión de tareas y recordatorios. | `C#`, `Visual Studio` |
+| **🌐 Mi Propio Servidor Web** | Configuración, despliegue y alojamiento de una página web en un servidor propio. | `Redes`, `Web` |
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+| Actividad | Lenguajes más usados |
+| :---: | :---: |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=radical&hide_border=false" /> |
+
+---
+
+### 📫 ¿Cómo contactarme?
+*(Aquí puedes agregar tus enlaces, reemplaza las URLs por las tuyas)*
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tu-correo@gmail.com)
