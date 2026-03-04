@@ -1,6 +1,7 @@
 # ¡Hola! Soy Sarahy Arámbula García 👋
 
 <p align="center">
+  >p
 ### 👩‍💻 Sobre mí
 Soy estudiante de 7mo semestre de **Ingeniería en Sistemas Computacionales** (Promedio: 90) con bases previas en Logística por el CEtis 58. Me apasiona la integración de hardware y software, el desarrollo de aplicaciones y la creación de infraestructura tecnológica. Soy proactiva, me encantan los retos (como el Hackatón en el que participé en 2023) y domino el **inglés con fluidez** para cualquier entorno profesional.
 
